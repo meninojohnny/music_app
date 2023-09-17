@@ -13,5 +13,5 @@ class MusicAppTextStyles {
   static TextStyle get getTitleStyle =>
       getNormalBoldStyle.copyWith(fontSize: 24);
 
-  static TextStyle get getSmallStyle => getNormalStyle.copyWith(fontSize: 12);
+  static TextStyle get getSmallType => getNormalStyle.copyWith(fontSize: 12);
 }
